@@ -1,0 +1,7 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+baur1253,Baure,,-13.61,-63.68,baur1253,,1,language,Arawakan,languages
+cani1243,Canichana,,-14.3058,-64.944455,cani1243,,2,language,,languages
+cayu1262,Cayubaba,,-13.2482,-65.4822,cayu1262,,3,language,,languages
+iton1250,Itonama,,-12.80431,-64.35748,iton1250,,4,language,,languages
+movi1243,Movima,,-13.8115,-65.6348,movi1243,,6,language,,languages
+araw1281,Arawakan,,,,araw1281,,1 5,family,,families
