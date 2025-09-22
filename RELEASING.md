@@ -10,7 +10,7 @@ cldfbench download cldfbench_denevan1966aboriginal.py
 ```shell
 cldfbench makecldf cldfbench_denevan1966aboriginal.py --glottolog-version v5.2
 cldfbench cldfreadme cldfbench_denevan1966aboriginal.py
-cldfbench zenodo cldfbench_denevan1966aboriginal.py
+cldfbench zenodo --communities glottography cldfbench_denevan1966aboriginal.py
 cldfbench readme cldfbench_denevan1966aboriginal.py
 ```
 

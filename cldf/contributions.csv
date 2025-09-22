@@ -1,7 +1,8 @@
-ID,Name,Description,Contributor,Citation,Glottocode,Year,Source,Media_ID,Map_Name
-1,Baure,,,,baur1253,1700,denevan1966aboriginal,features,Fig.3
-2,Canichana,,,,cani1243,1700,denevan1966aboriginal,features,Fig.3
-3,Cayuvava,,,,cayu1262,1700,denevan1966aboriginal,features,Fig.3
-4,Itonama,,,,iton1250,1700,denevan1966aboriginal,features,Fig.3
-5,Mojo,,,,moxo1234,1700,denevan1966aboriginal,features,Fig.3
-6,Movima,,,,movi1243,1700,denevan1966aboriginal,features,Fig.3
+ID,Name,Description,Contributor,Citation,Glottocode,Year,Source,Media_IDs,Type,Map_IDs
+fig3,Fig.3,"Indian tribes of northeastern Bolivia, about 1700.",,,,,denevan1966aboriginal,,map,
+1,Baure,,,,baur1253,1700,denevan1966aboriginal,features,feature,fig3
+2,Canichana,,,,cani1243,1700,denevan1966aboriginal,features,feature,fig3
+3,Cayuvava,,,,cayu1262,1700,denevan1966aboriginal,features,feature,fig3
+4,Itonama,,,,iton1250,1700,denevan1966aboriginal,features,feature,fig3
+5,Mojo,,,,moxo1234,1700,denevan1966aboriginal,features,feature,fig3
+6,Movima,,,,movi1243,1700,denevan1966aboriginal,features,feature,fig3

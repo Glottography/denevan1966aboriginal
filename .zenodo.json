@@ -14,5 +14,10 @@
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Denevan, William M. 1966. The aboriginal cultural geography of the Llanos de Mojos of Bolivia. (Ibero-Americana, 48.) Berkeley: University of California Press.</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
-    }
+    },
+    "communities": [
+        {
+            "identifier": "glottography"
+        }
+    ]
 }
