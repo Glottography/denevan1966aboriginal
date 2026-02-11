@@ -22,6 +22,8 @@ cldf validate cldf
 
 ```shell
 cldfbench geojson.validate cldf
+6       valid features
+6       valid speaker areas
 ```
 
 ```shell
@@ -35,3 +37,14 @@ cldfbench geojson.glottolog_distance cldf --format pipe
 | cayu1262 | 0 | True | 1 |
 | iton1250 | 0 | True | 1 |
 | movi1243 | 0 | True | 1 |
+
+
+## Release
+
+Commit and push all changes.
+
+Run
+```
+cldfbench glottography.release cldfbench_denevan1966aboriginal.py vX.Y
+```
+and follow the instructions given in the output of the command.
